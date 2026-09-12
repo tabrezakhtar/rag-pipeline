@@ -1,0 +1,24 @@
+{
+  "name": "rag-pipeline",
+  "version": "1.0.0",
+  "description": "A rag pipeline for Walmart product information",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabrezakhtar/rag-pipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabrezakhtar/rag-pipeline/issues"
+  },
+  "homepage": "https://github.com/tabrezakhtar/rag-pipeline#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mongodb": "^7.6.0"
+  }
+}
